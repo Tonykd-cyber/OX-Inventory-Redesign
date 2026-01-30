@@ -1,5 +1,6 @@
 
-![Uploading 1.PNG…]()
+<img width="1478" height="844" alt="1" src="https://github.com/user-attachments/assets/9e38feeb-41f6-40dc-bbcf-0e146ac882fd" />
+
 
 
 # ox_inventory
